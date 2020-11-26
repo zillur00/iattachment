@@ -1,5 +1,5 @@
 <?php 
-# logout-moadal is modified
+# logout-moadal is modified Adding some Content from test Branch
 ?>
 <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog" role="document">
